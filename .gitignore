@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# 「.idea」フォルダを除外
+.idea/
